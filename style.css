@@ -1,0 +1,21 @@
+body {
+    text-align: right;
+    font-family: IRAN;
+    background: rgb(57, 205, 165);
+    background: linear-gradient(90deg, rgba(57, 205, 165, 1) 6%, rgba(59, 152, 134, 1) 62%, rgba(42, 122, 160, 1) 94%);
+}
+
+.input-group {
+    width: auto;
+}
+
+.table-box {
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 21px 8px;
+}
+
+@font-face {
+    font-family: IRAN;
+    src: url("./FontsFree-Net-ir_sans.ttf");
+}
